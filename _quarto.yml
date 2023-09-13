@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd           
+    - events_upcoming.qmd
+    - events_past.qmd
+    - methods_intro.qmd
+    - workshop_intro.qmd
+
+website:
+  title: "EFSPI Europe"
+  navbar:
+    background: info
+    left:
+    - text: "EFSPI regulatory statistics workshop"
+      href: workshop_intro.html
+    - text: "EFSPI trainings: Calendar of events"
+      menu:
+        - text: "Upcoming"  
+          href: events_upcoming.html
+        - text: "Past"  
+          href: events_past.html
+    - text: "EFSPI statistical methodology leaders"
+      menu:
+        - text: "Introduction"  
+          href: methods_intro.html
+          
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
+

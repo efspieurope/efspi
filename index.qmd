@@ -1,0 +1,39 @@
+---
+title: " "
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: no
+    self_contained: yes
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+---
+
+```{r setup, include = FALSE, echo = FALSE}
+## load packages
+packs.html <- c("knitr", "pander", "reporttools", "dplyr", "readxl")
+for (i in 1:length(packs.html)){library(packs.html[i], character.only = TRUE)}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+path <- getwd()
+source(paste(path, "/tools/colFmt.r", sep = ""))
+```
+
+# What you find here
+
+## EFSPI trainings
+
+On this webpage you find a calendar with links and materials related to biostatistics trainings and scientific events in Europe organized by [EFSPI](http://www.efspi.org) ([Who is EFSPI?](https://www.efspi.org/EFSPI/About_EFSPI/Who_is_EFSPI/EFSPI/About_EFSPI/Who_is_EFSPI.aspx?hkey=bd0697b9-ee96-4115-9a65-e6c19772236f)) or its National Organizations.
+
+## EFSPI statistical methodology leaders
+
+See [here](methods_intro.html).
+
+# Contact
+
+For feedback and questions send an email to [efspieurope@gmail.com](efspieurope@gmail.com).
+
+
+

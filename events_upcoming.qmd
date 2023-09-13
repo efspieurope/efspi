@@ -1,0 +1,70 @@
+---
+title: "Upcoming events"
+date: last-modified
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: yes
+    self_contained: yes
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+
+```{r setup, include = FALSE, echo = FALSE}
+## load packages
+packs.html <- c("knitr", "pander", "reporttools", "dplyr", "readxl")
+for (i in 1:length(packs.html)){library(packs.html[i], character.only = TRUE)}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+## events
+path <- getwd()
+events <- as.data.frame(read_excel(paste(path, "/data/training/agenda.xlsx", sep = ""), col_types = NULL))
+
+# prepare date strings
+d <- substr(events$date, 1, 2)
+m <- substr(events$date, 4, 5)
+y <- substr(events$date, 7, 11)
+
+rdate <- paste(y, m, d, sep = "")
+events$rdate <- rdate
+
+i1 <- is.na(events$dates)
+events$dates[i1] <- events$date[i1]
+
+# select events with past date
+events <- (events %>% filter(rdate > gsub("-", "", as.character(Sys.Date()))))
+
+# sort sheet
+events <- (events %>% group_by(rdate, Type)  %>% 
+        arrange(
+            desc(rdate)
+        ))
+events <- as.data.frame(events)
+rdate <- unique(events$rdate)
+dates <- events$date
+
+events$cat <- as.numeric(dates == "tbd")
+```
+
+Below a list of upcoming events of non-commercial events organized by [EFSPI](http://www.efspi.org) and/or its National Organizations, including links with more information and registration details.
+
+In case of any questions please contact [efspieurope@gmail.com](efspieurope@gmail.com).
+
+```{r echo = FALSE, message = FALSE, warning = FALSE, include = FALSE}
+# how to do this with child documents: https://gist.github.com/rmoff/a043676a2f084b81a434
+
+out1 <- NULL
+for (j in 0:1){
+    out1 <- c(out1, knit_expand('tools/events_past.qmd'))
+}
+# the "knit" command somehow produces unwanted output, this is why I assign its output to a and use a separate chunk to display a
+a <- knit(text = unlist(paste(out1, collapse = '\n')), quiet = TRUE)
+```
+
+```{r conferences, echo = FALSE, message = FALSE, warning = FALSE, results = "asis"}
+cat(a)
+```
+
+

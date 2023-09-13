@@ -1,0 +1,20 @@
+```{r echo = FALSE}
+# how to do this with child documents: https://gist.github.com/rmoff/a043676a2f084b81a434
+
+j <- as.numeric('{{j}}')
+tab <- filter(events, cat == j)
+```
+
+## `r ifelse(j == 0, "Events with dates", "Events in planning with no date yet")` {-} 
+
+```{r echo = FALSE}
+tab1 <- tab[, c("dates", "Course", "Type", "National Org", "Location")]
+
+i1 <- !is.na(tab$link)
+tab1[i1, "Course"] <- paste("[", tab[i1, "Course"], "](", tab$link[i1], ")", sep = "")
+rownames(tab1) <- NULL
+
+if (j == 0){kable(tab1, col.names = c("Date", "Title", "Type", "National Organiziation", "Location"), row.names = NA)}
+if (j == 1){kable(tab1[, 2:4], col.names = c("Title", "Type", "National Organiziation"), row.names = NA)}
+```
+

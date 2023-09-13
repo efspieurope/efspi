@@ -1,0 +1,16 @@
+```{r echo = FALSE}
+# how to do this with child documents: https://gist.github.com/rmoff/a043676a2f084b81a434
+
+tab <- events
+```
+
+```{r echo = FALSE}
+tab1 <- tab[, c("dates", "Course", "Type", "National Org", "Location")]
+
+i1 <- !is.na(tab$link)
+tab1[i1, "Course"] <- paste("[", tab[i1, "Course"], "](", tab$link[i1], ")", sep = "")
+rownames(tab1) <- NULL
+
+kable(tab1, col.names = c("Date", "Title", "Type", "National Organiziation", "Location"), row.names = NA)
+```
+
