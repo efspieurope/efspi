@@ -23,7 +23,7 @@ source(paste(path, "/tools/colFmt.r", sep = ""))
 
 # EFSPI
 
-The original EFSPI webpage is available [here](www.efspi.org).
+The original EFSPI webpage is available [here](http://www.efspi.org).
 
 This page provides some resources for certain EFSPI activities.
 
