@@ -13,17 +13,17 @@ website:
     background: info
     left:
     - text: "EFSPI regulatory statistics workshop"
-      href: workshop_intro.html
+      href: workshop/workshop_intro.html
     - text: "EFSPI trainings: Calendar of events"
       menu:
         - text: "Upcoming"  
-          href: events_upcoming.html
+          href: training/events_upcoming.html
         - text: "Past"  
-          href: events_past.html
+          href: training/events_past.html
     - text: "EFSPI statistical methodology leaders"
       menu:
         - text: "Introduction"  
-          href: methods_intro.html
+          href: methods/methods_intro.html
           
 format:
   html:
