@@ -3,11 +3,10 @@ project:
   output-dir: docs
   render:
     - index.qmd           
-    - events_upcoming.qmd
-    - events_past.qmd
-    - methods_intro.qmd
-    - workshop_intro.qmd
-
+    - training
+    - methods
+    - workshop
+    
 website:
   title: "EFSPI Europe"
   navbar:
