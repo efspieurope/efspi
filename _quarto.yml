@@ -3,9 +3,9 @@ project:
   output-dir: docs
   render:
     - index.qmd           
-    - training
-    - methods
-    - workshop
+    - training/
+    - methods/
+    - workshop/
     
 website:
   title: "EFSPI Europe"
