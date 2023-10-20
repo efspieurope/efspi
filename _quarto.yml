@@ -24,6 +24,8 @@ website:
       menu:
         - text: "Introduction"  
           href: methods/methods_intro.html
+        - text: "Members"  
+          href: methods/methods_members.html
           
 format:
   html:
