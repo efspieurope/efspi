@@ -11,8 +11,6 @@ output:
     toc_float: yes
 ---
 
-# Podcasts
-
 ```{r setup, include = FALSE, echo = FALSE}
 ## load packages
 packs.html <- c("knitr", "pander", "reporttools", "dplyr", "readxl")
