@@ -13,7 +13,7 @@ website:
     background: info
     left:
     - text: "EFSPI regulatory statistics workshop"
-      href: workshop/workshop_intro.html
+      href: https://efspieurope.github.io/workshop/
     - text: "EFSPI trainings: Calendar of events"
       menu:
         - text: "Upcoming"  
