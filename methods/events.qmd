@@ -1,0 +1,26 @@
+---
+title: ""
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: no
+    self_contained: yes
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+---
+
+# EMA multistakeholder workshop 06.07.2024
+
+EMA invited industry to propose topics for discussion, of which ten were selected for discussion, see the agenda below. Most short talks were given by members of the [EFSPI statistical methodology leaders group](https://efspieurope.github.io/efspi/methods/methods_intro.html).
+
+- [Agenda](events/20240607/20240607_EMA_multistakeholder_agenda.pdf).
+- [All slidedecks](events/20240607/20240607_EMA_multistakeholder_slidedecks.zip).
+- [Summary of discussions](events/20240607/20240607_EMA_multistakeholder_summary.pdf).
+
+# Feedback 
+
+For feedback and questions send an email to [efspieurope@gmail.com](efspieurope@gmail.com).
+
+
+

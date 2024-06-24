@@ -7,25 +7,18 @@
     "text": "Name\nRole\nCompany\nLocation\nCountry\n\n\n\n\nMouna Akacha\nlead\nNovartis\nBasel\nSwitzerland\n\n\nCornelia Kunz\nlead\nBoehringer Ingelheim\nBiberach\nGermany\n\n\nKaspar Rufibach\nlead\nRoche\nBasel\nSwitzerland\n\n\nNicky Best\nmember\nGSK\n\nUK\n\n\nRachid El-Galta\nmember\nSandoz\nHolzkirchen\nGermany\n\n\nHeiko Goette\nmember\nMerck Healthcare KGaA\nDarmstadt\nGermany\n\n\nPhilip Hougaard\nmember\nLundbeck\nValby\nDK\n\n\nJurgen Hummel\nmember\nNovo Nordisk\nCopenhagen\nDenmark\n\n\nVivian Lanius\nmember\nBayer\nWuppertal\nGermany\n\n\nTobias Mielke\nmember\nJ&J\n\nGermany\n\n\nNatalia Muhlemann\nmember\nCytel\nLausanne\nSwitzerland\n\n\nMarc Vandemeulebroecke\nmember\nUCB\nBasel\nSwitzerland\n\n\nDavid Wright\nmember\nAstraZeneca\nCambridge\nUK"
   },
   {
-    "objectID": "training/events_upcoming.html",
-    "href": "training/events_upcoming.html",
-    "title": "Upcoming events",
+    "objectID": "methods/events.html",
+    "href": "methods/events.html",
+    "title": "EMA multistakeholder workshop 06.07.2024",
     "section": "",
-    "text": "Below a list of upcoming events of non-commercial events organized by EFSPI and/or its National Organizations, including links with more information and registration details.\nIn case of any questions please contact efspieurope@gmail.com."
+    "text": "EMA multistakeholder workshop 06.07.2024\nEMA invited industry to propose topics for discussion, of which ten were selected for discussion, see the agenda below. Most short talks were given by members of the EFSPI statistical methodology leaders group.\n\nAgenda.\nAll slidedecks.\nSummary of discussions.\n\n\n\nFeedback\nFor feedback and questions send an email to efspieurope@gmail.com."
   },
   {
-    "objectID": "training/events_upcoming.html#events-with-dates",
-    "href": "training/events_upcoming.html#events-with-dates",
-    "title": "Upcoming events",
-    "section": "Events with dates",
-    "text": "Events with dates\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation\n\n\n\n\n11./12.09.2024\n9th EFSPI Workshop on Regulatory Statistics 2024\nStatistical\nEFSPI\nBasel"
-  },
-  {
-    "objectID": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
-    "href": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
-    "title": "Upcoming events",
-    "section": "Events in planning with no date yet",
-    "text": "Events in planning with no date yet\n\n\n\n\n\n\n\n\n\n\nTitle\nType\nNational Organiziation\n\n\n\n\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nStatistical\nItalian Biostatistics Group\n\n\nGroup Sequential and Adaptive Methods in the Design of Clinical Trials (Repeat of course run in 2019)\nStatistical\nDSBS\n\n\nFundamentals of Causal Inference (repeat of course from 2020). November 2023, Arvid Sjolander, Karolinska Instituttet.\nStatistical\nDSBS\n\n\nOne day course on Statistics and Machine Learning\nDevelopment\nPSDM\n\n\nAdaptive designs\nStatistical\nBBS\n\n\nInteractive R-Shiny apps\nDevelopment\nBBS\n\n\nEstimands and causal inference\nStatistical\nBBS\n\n\nTraining course on causal inference\nStatistical\nBBS"
+    "objectID": "training/events_past.html",
+    "href": "training/events_past.html",
+    "title": "Past events",
+    "section": "",
+    "text": "Below a list of past events organized by EFSPI and/or its National Organisations, with links to related materials like slide decks (where available).\nIn case of any questions please contact efspieurope@gmail.com.\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation\n\n\n\n\n06./14.10.2023\nPSI Webinar(s): Causal inference in Clinical Trials\nStatistical\nPSI\nOnline\n\n\n14./15.10.2023\nPSI Training Course: Sample Sizing for Clinical Trials\nStatistical\nPSI\nLondon\n\n\n06.11.2023\nFederated learning and new data modalities\nDevelopment\nBBS\nBasel\n\n\n01.11.2023\nPSI Careers - MEDMathS: Medicine Empowered by Data, Maths and Statistics\nDevelopment\nPSI\nOnline\n\n\n18./19.10.2023\nPatient-focused drug development\nDevelopment\nPSI\nOnline\n\n\n16.10.2023\nEstimands in Early Development\nStatistical\nBBS\nOnline\n\n\n09.-13.10.2023\nMissing data\nStatistical\nPSI\nOnline\n\n\n04./05.10.2023\nPre and Post Approval CAR-T Cell Therapy\nDevelopment\nBBS\nOnline\n\n\n04.10.2023\nPSI Launch & Lifecycle SIG Webinar: Do you want to stay single? Considerations on single arm trials in the post-regulatory space\nDevelopment\nPSI\nOnline\n\n\n03.10.2023\nPSI Webinar: Application of Bayesian Methods in Confirmatory Trials\nStatistical\nPSI\nOnline\n\n\n13./14.09.2023\n8th EFSPI Workshop on Regulatory Statistics 2023\nStatistical\nEFSPI\nBasel\n\n\n12.09.2023\nPSI Careers Lunch & Learn: ChatGPT & Beyond\nDevelopment\nPSI\nOnline\n\n\n11.09.2023\nNextGen is now! How to inspire the future workforce of pharmaceutical statistics\nDevelopment\nPSI\nOnline\n\n\n05.-21.09.2023\nPropensity Scores - practical application in non-randomised studies\nStatistical\nPSI\nOnline\n\n\n21.06.2023\nNext Generation event on soft-skills, professional development and networking\nDevelopment\nBBS\nNA\n\n\n19.04.2023\n1/2 Workshop on Data Visualisation (as part of Scientific Meeting)\nDevelopment\nEFSPI-PSDM\nUtrecht\n\n\n19./21.04.2023\nAdaptive Designs and Multiple Testing Procedures Workshop\nStatistical\nBBS\nBasel\n\n\n12.04.2023\nReal-World Data Quality – Assessing data quality and demonstrating fitness-for-purpose\nDevelopment\nBBS-BES\nNA\n\n\n15./16./28./29.03.2023\nSurvival analysis in clinical trials, Henrik Ravn and Per Kragh Andersen, Novo Nordisk and University of Copenhagen\nStatistical\nDSBS\nNA\n\n\n10.02.2023\nStatistical engineering\nStatistical\nBBS\nNA\n\n\n02.12.2022\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nDevelopment\nIBG\nMilano"
   },
   {
     "objectID": "index.html",
@@ -56,11 +49,25 @@
     "text": "EFSPI statistical methodology leaders\nSee here."
   },
   {
-    "objectID": "training/events_past.html",
-    "href": "training/events_past.html",
-    "title": "Past events",
+    "objectID": "training/events_upcoming.html",
+    "href": "training/events_upcoming.html",
+    "title": "Upcoming events",
     "section": "",
-    "text": "Below a list of past events organized by EFSPI and/or its National Organisations, with links to related materials like slide decks (where available).\nIn case of any questions please contact efspieurope@gmail.com.\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation\n\n\n\n\n06./14.10.2023\nPSI Webinar(s): Causal inference in Clinical Trials\nStatistical\nPSI\nOnline\n\n\n14./15.10.2023\nPSI Training Course: Sample Sizing for Clinical Trials\nStatistical\nPSI\nLondon\n\n\n06.11.2023\nFederated learning and new data modalities\nDevelopment\nBBS\nBasel\n\n\n01.11.2023\nPSI Careers - MEDMathS: Medicine Empowered by Data, Maths and Statistics\nDevelopment\nPSI\nOnline\n\n\n18./19.10.2023\nPatient-focused drug development\nDevelopment\nPSI\nOnline\n\n\n16.10.2023\nEstimands in Early Development\nStatistical\nBBS\nOnline\n\n\n09.-13.10.2023\nMissing data\nStatistical\nPSI\nOnline\n\n\n04./05.10.2023\nPre and Post Approval CAR-T Cell Therapy\nDevelopment\nBBS\nOnline\n\n\n04.10.2023\nPSI Launch & Lifecycle SIG Webinar: Do you want to stay single? Considerations on single arm trials in the post-regulatory space\nDevelopment\nPSI\nOnline\n\n\n03.10.2023\nPSI Webinar: Application of Bayesian Methods in Confirmatory Trials\nStatistical\nPSI\nOnline\n\n\n13./14.09.2023\n8th EFSPI Workshop on Regulatory Statistics 2023\nStatistical\nEFSPI\nBasel\n\n\n12.09.2023\nPSI Careers Lunch & Learn: ChatGPT & Beyond\nDevelopment\nPSI\nOnline\n\n\n11.09.2023\nNextGen is now! How to inspire the future workforce of pharmaceutical statistics\nDevelopment\nPSI\nOnline\n\n\n05.-21.09.2023\nPropensity Scores - practical application in non-randomised studies\nStatistical\nPSI\nOnline\n\n\n21.06.2023\nNext Generation event on soft-skills, professional development and networking\nDevelopment\nBBS\nNA\n\n\n19.04.2023\n1/2 Workshop on Data Visualisation (as part of Scientific Meeting)\nDevelopment\nEFSPI-PSDM\nUtrecht\n\n\n19./21.04.2023\nAdaptive Designs and Multiple Testing Procedures Workshop\nStatistical\nBBS\nBasel\n\n\n12.04.2023\nReal-World Data Quality – Assessing data quality and demonstrating fitness-for-purpose\nDevelopment\nBBS-BES\nNA\n\n\n15./16./28./29.03.2023\nSurvival analysis in clinical trials, Henrik Ravn and Per Kragh Andersen, Novo Nordisk and University of Copenhagen\nStatistical\nDSBS\nNA\n\n\n10.02.2023\nStatistical engineering\nStatistical\nBBS\nNA\n\n\n02.12.2022\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nDevelopment\nIBG\nMilano"
+    "text": "Below a list of upcoming events of non-commercial events organized by EFSPI and/or its National Organizations, including links with more information and registration details.\nIn case of any questions please contact efspieurope@gmail.com."
+  },
+  {
+    "objectID": "training/events_upcoming.html#events-with-dates",
+    "href": "training/events_upcoming.html#events-with-dates",
+    "title": "Upcoming events",
+    "section": "Events with dates",
+    "text": "Events with dates\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation\n\n\n\n\n11./12.09.2024\n9th EFSPI Workshop on Regulatory Statistics 2024\nStatistical\nEFSPI\nBasel"
+  },
+  {
+    "objectID": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
+    "href": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
+    "title": "Upcoming events",
+    "section": "Events in planning with no date yet",
+    "text": "Events in planning with no date yet\n\n\n\n\n\n\n\n\n\n\nTitle\nType\nNational Organiziation\n\n\n\n\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nStatistical\nItalian Biostatistics Group\n\n\nGroup Sequential and Adaptive Methods in the Design of Clinical Trials (Repeat of course run in 2019)\nStatistical\nDSBS\n\n\nFundamentals of Causal Inference (repeat of course from 2020). November 2023, Arvid Sjolander, Karolinska Instituttet.\nStatistical\nDSBS\n\n\nOne day course on Statistics and Machine Learning\nDevelopment\nPSDM\n\n\nAdaptive designs\nStatistical\nBBS\n\n\nInteractive R-Shiny apps\nDevelopment\nBBS\n\n\nEstimands and causal inference\nStatistical\nBBS\n\n\nTraining course on causal inference\nStatistical\nBBS"
   },
   {
     "objectID": "methods/methods_intro.html",

@@ -26,7 +26,9 @@ website:
           href: methods/methods_intro.html
         - text: "Members"  
           href: methods/methods_members.html
-          
+        - text: "Events"  
+          href: methods/events.html
+         
 format:
   html:
     theme: cosmo
