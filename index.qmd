@@ -31,7 +31,7 @@ This page provides some resources for certain EFSPI activities.
 
 ## EFSPI workshop
 
-See [here](workshop/workshop_intro.html).
+See [here](http://www.efspiworkshop.org).
 
 ## EFSPI trainings
 
