@@ -14,11 +14,25 @@
     "text": "EMA multistakeholder workshop 06.07.2024\nEMA invited industry to propose topics for discussion, of which ten were selected for discussion, see the agenda below. Most short talks were given by members of the EFSPI statistical methodology leaders group.\n\nAgenda.\nAll slidedecks.\nSummary of discussions.\n\n\n\nRegular meeting of EFSPI / PSI regulatory eSIG with MHRA statisticians 13.11.2024\nEFSPI methods leaders also provided input into the agenda of this meeting, and some also attended. Below the protocol of the discussion.\n\nSummary of discussions.\n\n\n\nFeedback\nFor feedback and questions send an email to efspieurope@gmail.com."
   },
   {
-    "objectID": "training/events_past.html",
-    "href": "training/events_past.html",
-    "title": "Past events",
+    "objectID": "training/events_upcoming.html",
+    "href": "training/events_upcoming.html",
+    "title": "Upcoming events",
     "section": "",
-    "text": "Below a list of past events organized by EFSPI and/or its National Organisations, with links to related materials like slide decks (where available).\nIn case of any questions please contact efspieurope@gmail.com.\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation\n\n\n\n\n11./12.09.2024\n9th EFSPI Workshop on Regulatory Statistics 2024\nStatistical\nEFSPI\nBasel\n\n\n06./14.10.2023\nPSI Webinar(s): Causal inference in Clinical Trials\nStatistical\nPSI\nOnline\n\n\n14./15.10.2023\nPSI Training Course: Sample Sizing for Clinical Trials\nStatistical\nPSI\nLondon\n\n\n06.11.2023\nFederated learning and new data modalities\nDevelopment\nBBS\nBasel\n\n\n01.11.2023\nPSI Careers - MEDMathS: Medicine Empowered by Data, Maths and Statistics\nDevelopment\nPSI\nOnline\n\n\n18./19.10.2023\nPatient-focused drug development\nDevelopment\nPSI\nOnline\n\n\n16.10.2023\nEstimands in Early Development\nStatistical\nBBS\nOnline\n\n\n09.-13.10.2023\nMissing data\nStatistical\nPSI\nOnline\n\n\n04./05.10.2023\nPre and Post Approval CAR-T Cell Therapy\nDevelopment\nBBS\nOnline\n\n\n04.10.2023\nPSI Launch & Lifecycle SIG Webinar: Do you want to stay single? Considerations on single arm trials in the post-regulatory space\nDevelopment\nPSI\nOnline\n\n\n03.10.2023\nPSI Webinar: Application of Bayesian Methods in Confirmatory Trials\nStatistical\nPSI\nOnline\n\n\n13./14.09.2023\n8th EFSPI Workshop on Regulatory Statistics 2023\nStatistical\nEFSPI\nBasel\n\n\n12.09.2023\nPSI Careers Lunch & Learn: ChatGPT & Beyond\nDevelopment\nPSI\nOnline\n\n\n11.09.2023\nNextGen is now! How to inspire the future workforce of pharmaceutical statistics\nDevelopment\nPSI\nOnline\n\n\n05.-21.09.2023\nPropensity Scores - practical application in non-randomised studies\nStatistical\nPSI\nOnline\n\n\n21.06.2023\nNext Generation event on soft-skills, professional development and networking\nDevelopment\nBBS\nNA\n\n\n19.04.2023\n1/2 Workshop on Data Visualisation (as part of Scientific Meeting)\nDevelopment\nEFSPI-PSDM\nUtrecht\n\n\n19./21.04.2023\nAdaptive Designs and Multiple Testing Procedures Workshop\nStatistical\nBBS\nBasel\n\n\n12.04.2023\nReal-World Data Quality – Assessing data quality and demonstrating fitness-for-purpose\nDevelopment\nBBS-BES\nNA\n\n\n15./16./28./29.03.2023\nSurvival analysis in clinical trials, Henrik Ravn and Per Kragh Andersen, Novo Nordisk and University of Copenhagen\nStatistical\nDSBS\nNA\n\n\n10.02.2023\nStatistical engineering\nStatistical\nBBS\nNA\n\n\n02.12.2022\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nDevelopment\nIBG\nMilano"
+    "text": "Below a list of upcoming events of non-commercial events organized by EFSPI and/or its National Organizations, including links with more information and registration details.\nIn case of any questions please contact efspieurope@gmail.com."
+  },
+  {
+    "objectID": "training/events_upcoming.html#events-with-dates",
+    "href": "training/events_upcoming.html#events-with-dates",
+    "title": "Upcoming events",
+    "section": "Events with dates",
+    "text": "Events with dates\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation"
+  },
+  {
+    "objectID": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
+    "href": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
+    "title": "Upcoming events",
+    "section": "Events in planning with no date yet",
+    "text": "Events in planning with no date yet\n\n\n\n\n\n\n\n\n\n\nTitle\nType\nNational Organiziation\n\n\n\n\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nStatistical\nItalian Biostatistics Group\n\n\nGroup Sequential and Adaptive Methods in the Design of Clinical Trials (Repeat of course run in 2019)\nStatistical\nDSBS\n\n\nFundamentals of Causal Inference (repeat of course from 2020). November 2023, Arvid Sjolander, Karolinska Instituttet.\nStatistical\nDSBS\n\n\nOne day course on Statistics and Machine Learning\nDevelopment\nPSDM\n\n\nAdaptive designs\nStatistical\nBBS\n\n\nInteractive R-Shiny apps\nDevelopment\nBBS\n\n\nEstimands and causal inference\nStatistical\nBBS\n\n\nTraining course on causal inference\nStatistical\nBBS"
   },
   {
     "objectID": "index.html",
@@ -49,31 +63,59 @@
     "text": "EFSPI statistical methodology leaders\nSee here."
   },
   {
-    "objectID": "training/events_upcoming.html",
-    "href": "training/events_upcoming.html",
-    "title": "Upcoming events",
+    "objectID": "training/events_past.html",
+    "href": "training/events_past.html",
+    "title": "Past events",
     "section": "",
-    "text": "Below a list of upcoming events of non-commercial events organized by EFSPI and/or its National Organizations, including links with more information and registration details.\nIn case of any questions please contact efspieurope@gmail.com."
+    "text": "Below a list of past events organized by EFSPI and/or its National Organisations, with links to related materials like slide decks (where available).\nIn case of any questions please contact efspieurope@gmail.com.\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation\n\n\n\n\n11./12.09.2024\n9th EFSPI Workshop on Regulatory Statistics 2024\nStatistical\nEFSPI\nBasel\n\n\n06./14.10.2023\nPSI Webinar(s): Causal inference in Clinical Trials\nStatistical\nPSI\nOnline\n\n\n14./15.10.2023\nPSI Training Course: Sample Sizing for Clinical Trials\nStatistical\nPSI\nLondon\n\n\n06.11.2023\nFederated learning and new data modalities\nDevelopment\nBBS\nBasel\n\n\n01.11.2023\nPSI Careers - MEDMathS: Medicine Empowered by Data, Maths and Statistics\nDevelopment\nPSI\nOnline\n\n\n18./19.10.2023\nPatient-focused drug development\nDevelopment\nPSI\nOnline\n\n\n16.10.2023\nEstimands in Early Development\nStatistical\nBBS\nOnline\n\n\n09.-13.10.2023\nMissing data\nStatistical\nPSI\nOnline\n\n\n04./05.10.2023\nPre and Post Approval CAR-T Cell Therapy\nDevelopment\nBBS\nOnline\n\n\n04.10.2023\nPSI Launch & Lifecycle SIG Webinar: Do you want to stay single? Considerations on single arm trials in the post-regulatory space\nDevelopment\nPSI\nOnline\n\n\n03.10.2023\nPSI Webinar: Application of Bayesian Methods in Confirmatory Trials\nStatistical\nPSI\nOnline\n\n\n13./14.09.2023\n8th EFSPI Workshop on Regulatory Statistics 2023\nStatistical\nEFSPI\nBasel\n\n\n12.09.2023\nPSI Careers Lunch & Learn: ChatGPT & Beyond\nDevelopment\nPSI\nOnline\n\n\n11.09.2023\nNextGen is now! How to inspire the future workforce of pharmaceutical statistics\nDevelopment\nPSI\nOnline\n\n\n05.-21.09.2023\nPropensity Scores - practical application in non-randomised studies\nStatistical\nPSI\nOnline\n\n\n21.06.2023\nNext Generation event on soft-skills, professional development and networking\nDevelopment\nBBS\nNA\n\n\n19.04.2023\n1/2 Workshop on Data Visualisation (as part of Scientific Meeting)\nDevelopment\nEFSPI-PSDM\nUtrecht\n\n\n19./21.04.2023\nAdaptive Designs and Multiple Testing Procedures Workshop\nStatistical\nBBS\nBasel\n\n\n12.04.2023\nReal-World Data Quality – Assessing data quality and demonstrating fitness-for-purpose\nDevelopment\nBBS-BES\nNA\n\n\n15./16./28./29.03.2023\nSurvival analysis in clinical trials, Henrik Ravn and Per Kragh Andersen, Novo Nordisk and University of Copenhagen\nStatistical\nDSBS\nNA\n\n\n10.02.2023\nStatistical engineering\nStatistical\nBBS\nNA\n\n\n02.12.2022\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nDevelopment\nIBG\nMilano"
   },
   {
-    "objectID": "training/events_upcoming.html#events-with-dates",
-    "href": "training/events_upcoming.html#events-with-dates",
-    "title": "Upcoming events",
-    "section": "Events with dates",
-    "text": "Events with dates\n\n\n\n\n\nDate\nTitle\nType\nNational Organiziation\nLocation"
-  },
-  {
-    "objectID": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
-    "href": "training/events_upcoming.html#events-in-planning-with-no-date-yet",
-    "title": "Upcoming events",
-    "section": "Events in planning with no date yet",
-    "text": "Events in planning with no date yet\n\n\n\n\n\n\n\n\n\n\nTitle\nType\nNational Organiziation\n\n\n\n\nTraining course on multiple imputation, with an introduction to the theory and practical sessions with R and SAS\nStatistical\nItalian Biostatistics Group\n\n\nGroup Sequential and Adaptive Methods in the Design of Clinical Trials (Repeat of course run in 2019)\nStatistical\nDSBS\n\n\nFundamentals of Causal Inference (repeat of course from 2020). November 2023, Arvid Sjolander, Karolinska Instituttet.\nStatistical\nDSBS\n\n\nOne day course on Statistics and Machine Learning\nDevelopment\nPSDM\n\n\nAdaptive designs\nStatistical\nBBS\n\n\nInteractive R-Shiny apps\nDevelopment\nBBS\n\n\nEstimands and causal inference\nStatistical\nBBS\n\n\nTraining course on causal inference\nStatistical\nBBS"
+    "objectID": "methods/20250304_news.html",
+    "href": "methods/20250304_news.html",
+    "title": "Contribution to EFSPI newsletter March 2025",
+    "section": "",
+    "text": "Yearly face-to-face meeting\nIn January, the EFSPI statistical methodology leaders met for their yearly face-to-face meeting at Merck in Darmstadt. Twelve members took two days out of their busy schedule to travel to Germany. Below we summarize the discussions.\n\n\nAchievements\nWhile this group is only in effect for a bit more than one year achievements are manifold:\n\npresentations and industry at two EMA multistakeholder workshops on behalf EFPIA,\nbuilding a network of methodology leaders within Europe,\nfostering thinking about invention, innovation, adoption and impact through roundtables, webinars, podcasts, etc.\n\n\n\nDetermination of priority topics\nFour priority topics were identified for which dedicated subteams are having internal discussions and work on list of questions. See here.\n\n\nTraining offers\nBuilding on the first webinar From Statistical Innovations to Common Practice: How to innovate with impact? the group plans to continue a webinar series sharing examples of successful commercializations of statistical inventions.\n\n\nCareer development for methodologists\nDifferent models were discussed and we plan to have a discussion with the EFSPI statistical leaders how we can best collaborate to continue to build a network of methodologists.\n\n\nInteraction with statistical engineering colleagues\nThe group will seek alignment with openstatsware on implementation of software for the four priority topics and will explore further opportunities for collaboration between the two groups.\n\n\nLibrary of commercialisations\nA library of successful commercialization examples of statistical inventions has been initiated. These examples will be worked up so that they can be shared with the community to help discussions on methods within companies, e.g. to get partner functions on board for certain statistical methods, not the least in a regulatory context."
   },
   {
     "objectID": "methods/methods_intro.html",
     "href": "methods/methods_intro.html",
     "title": "EFSPI statistical methodology leaders",
     "section": "",
-    "text": "EFSPI statistical methodology leaders\nIn September 2023 EFSPI founded a new group EFSPI statistical methodology leaders, bringing together methodology leaders to work on topics of common interest.\nFind more context in this linkedin post and this slidedeck.\nA list of current members is available here.\n\n\nFeedback\nFor feedback and questions send an email to efspieurope@gmail.com."
+    "text": "In September 2023 EFSPI founded a new group EFSPI statistical methodology leaders, bringing together methodology leaders to work on topics of common interest.\nFind more context in this linkedin post and this slidedeck.\n\n\n\nA list of current members is available here.\n\n\n\nMaterials from events the methods leaders contributed to are available here.\n\n\n\nIn Q1 2025, four priority topics have been defined by the methods leaders:\n\nApplication of Bayesian methods in drug development.\nCovariate adjustment.\nA framework to appraise statistical methods building on ICH M15.\nSpecific topics related to estimands.\n\nThese topics are aligned with both EFSPI and EFPIA and input from further stakeholders, e.g. the EFSPI / PSI SIGs, is sought as well. The idea is to be prepared for discussions with regulators once there are opportunities, e.g. within EMA multistakeholder workshops.\n\n\n\n3rd March 2025"
+  },
+  {
+    "objectID": "methods/methods_intro.html#introduction",
+    "href": "methods/methods_intro.html#introduction",
+    "title": "EFSPI statistical methodology leaders",
+    "section": "",
+    "text": "In September 2023 EFSPI founded a new group EFSPI statistical methodology leaders, bringing together methodology leaders to work on topics of common interest.\nFind more context in this linkedin post and this slidedeck."
+  },
+  {
+    "objectID": "methods/methods_intro.html#members",
+    "href": "methods/methods_intro.html#members",
+    "title": "EFSPI statistical methodology leaders",
+    "section": "",
+    "text": "A list of current members is available here."
+  },
+  {
+    "objectID": "methods/methods_intro.html#previous-events",
+    "href": "methods/methods_intro.html#previous-events",
+    "title": "EFSPI statistical methodology leaders",
+    "section": "",
+    "text": "Materials from events the methods leaders contributed to are available here."
+  },
+  {
+    "objectID": "methods/methods_intro.html#priority-topics",
+    "href": "methods/methods_intro.html#priority-topics",
+    "title": "EFSPI statistical methodology leaders",
+    "section": "",
+    "text": "In Q1 2025, four priority topics have been defined by the methods leaders:\n\nApplication of Bayesian methods in drug development.\nCovariate adjustment.\nA framework to appraise statistical methods building on ICH M15.\nSpecific topics related to estimands.\n\nThese topics are aligned with both EFSPI and EFPIA and input from further stakeholders, e.g. the EFSPI / PSI SIGs, is sought as well. The idea is to be prepared for discussions with regulators once there are opportunities, e.g. within EMA multistakeholder workshops."
+  },
+  {
+    "objectID": "methods/methods_intro.html#newsletters",
+    "href": "methods/methods_intro.html#newsletters",
+    "title": "EFSPI statistical methodology leaders",
+    "section": "",
+    "text": "3rd March 2025"
   }
 ]

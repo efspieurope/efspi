@@ -1,22 +1,46 @@
 ---
 title: ""
-output: 
-  rmarkdown::html_document:
-    highlight: pygments
-    number_sections: no
-    self_contained: yes
-    toc: no
-    toc_depth: 2
-    toc_float: yes
+date: last-modified
+execute:   
+  freeze: auto  # re-render only when source changes
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    highlight-style: pygments
 ---
 
 # EFSPI statistical methodology leaders
+
+## Introduction
 
 In September 2023 EFSPI founded a new group _EFSPI statistical methodology leaders_, bringing together methodology leaders to work on topics of common interest.
 
 Find more context in this [linkedin post](https://www.linkedin.com/posts/kasparrufibach_biostatistics-statistics-drugdevelopment-activity-7084613881087578113-teIX/?utm_source=share&utm_medium=member_desktop) and [this slidedeck](20230913_EFSPI_methodology_group_linkedin.pdf).
 
+## Members 
+
 A list of current members is available [here](methods_members.html).
+
+## Previous events
+
+Materials from events the methods leaders contributed to are available [here](events.html).
+
+## Priority topics 
+
+In Q1 2025, four priority topics have been defined by the methods leaders:
+
+1) Application of Bayesian methods in drug development.
+2) Covariate adjustment.
+3) A framework to appraise statistical methods building on ICH M15.
+4) Specific topics related to estimands. 
+ 
+These topics are aligned with both EFSPI and EFPIA and input from further stakeholders, e.g. the EFSPI / PSI SIGs, is sought as well. The idea is to be prepared for discussions with regulators once there are opportunities, e.g. within EMA multistakeholder workshops.
+
+## Newsletters
+
+[3rd March 2025](20250304_news.html)
 
 # Feedback 
 

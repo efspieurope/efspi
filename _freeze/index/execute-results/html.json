@@ -1,0 +1,14 @@
+{
+  "hash": "ed90064f0f63070bcb73be6f347dc5fc",
+  "result": {
+    "markdown": "---\ntitle: \" \"\ndate: last-modified\nexecute:   \n  freeze: auto  # re-render only when source changes\nformat:\n  html:\n    toc: true\n    toc-depth: 3\n    number-sections: false\n    highlight-style: pygments\n---\n\n\n\n\n# EFSPI\n\nThe original EFSPI webpage is available [here](http://www.efspi.org).\n\nThis page provides some resources for certain EFSPI activities.\n\n# What you find here\n\n## EFSPI workshop\n\nSee [here](http://www.efspiworkshop.org).\n\n## EFSPI trainings\n\nOn this webpage you find a calendar with links and materials related to biostatistics trainings and scientific events in Europe organized by [EFSPI](http://www.efspi.org) ([Who is EFSPI?](https://www.efspi.org/EFSPI/About_EFSPI/Who_is_EFSPI/EFSPI/About_EFSPI/Who_is_EFSPI.aspx?hkey=bd0697b9-ee96-4115-9a65-e6c19772236f)) or its National Organizations.\n\n## EFSPI statistical methodology leaders\n\nSee [here](methods/methods_intro.html).\n\n# Contact\n\nFor feedback and questions send an email to [efspieurope@gmail.com](efspieurope@gmail.com).\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
