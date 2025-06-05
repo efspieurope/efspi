@@ -17,7 +17,7 @@ packs.html <- c("knitr", "pander", "reporttools", "dplyr", "readxl")
 for (i in 1:length(packs.html)){library(packs.html[i], character.only = TRUE)}
 
 knitr::opts_chunk$set(echo = TRUE)
-
+ 
 ## read in data
 path <- getwd()
 members <- as.data.frame(read.csv(paste("../data/methods_members.csv", sep = "")))[, -1]
