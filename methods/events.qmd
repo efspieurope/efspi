@@ -10,7 +10,11 @@ output:
     toc_float: yes
 ---
 
-# EMA multistakeholder workshop 06.07.2024
+# EMA multistakeholder workshop on Bayesian statistics 06.07.2024
+
+- [Agenda](https://www.ema.europa.eu/en/events/workshop-use-bayesian-statistics-clinical-development).
+
+# EMA multistakeholder workshop on general topics 06.07.2024
 
 EMA invited industry to propose topics for discussion, of which ten were selected for discussion, see the agenda below. Most short talks were given by members of the [EFSPI statistical methodology leaders group](https://efspieurope.github.io/efspi/methods/methods_intro.html).
 
