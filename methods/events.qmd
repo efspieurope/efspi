@@ -10,9 +10,17 @@ output:
     toc_float: yes
 ---
 
+# 2025/11/03: EMA workshop on external controls
+
+- Mouna and Marc represented the group in the scientific committee while Natalia presented.
+- [Recording and slidedecks](https://www.ema.europa.eu/en/events/workshop-use-external-controls-evidence-generation-regulatory-decision-making).
+
 # 2025/09/10: EFSPI regulatory statistics workshop
 
-[Talk](https://efspieurope.github.io/workshop/data/2025/slides/01_Overture_2_Akacha.pdf) on strategic priorities.
+- EFSPI method leaders (Mouna) presented the four priority topics.
+- Tobias presented on credibility framework/assumptions.
+- Nicky presented in the Bayes session.
+- See [here](https://efspieurope.github.io/workshop/data/2025/slides.html) for recordings and slidedecks.
 
 # 2025/03/19: BBS webinar "From Statistical Innovations to Common Practice, How to innovate with impact?"
 
