@@ -28,6 +28,8 @@ website:
           href: methods/methods_members.html
         - text: "Events"  
           href: methods/events.html
+        - text: "Priority topics"  
+          href: methods/priority.html
          
 format:
   html:
