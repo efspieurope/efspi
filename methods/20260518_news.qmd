@@ -13,7 +13,7 @@ format:
 
 # Yearly face-to-face meeting
 
-In April, the EFSPI statistical methodology leaders met for their yearly face-to-face meeting at Merck in Copenhagen. Ten members took two days out of their busy schedule to travel to Denmark. These [topics](events.html#efspi-statistical-methodology-leaders-f2f-in-copenhagen) were discussed.
+In April, the EFSPI statistical methodology leaders met for their yearly face-to-face meeting in Copenhagen. The meeting was co-organized by Novo Nordisk and Lundbeck. Ten members took two days out of their busy schedule to travel to Denmark. These [topics](events.html#efspi-statistical-methodology-leaders-f2f-in-copenhagen) were discussed.
 
 # Events
 
