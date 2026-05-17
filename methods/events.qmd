@@ -10,6 +10,19 @@ output:
     toc_float: yes
 ---
 
+# 2026/05/12: EFSPI StatsLeaders Meeting Munich
+
+- Mouna and Tobias lead a session on _Engagement with Regulatory Agencies and Methodological Innovation_.
+
+# 2026/04/15: EFSPI Statistical Methodology Leaders F2F in Copenhagen
+
+Topics that were discussed:
+
+- Update from organizations.
+- Change management tactics.
+- Priority topics, see [here](priority.html).
+
+
 # 2025/11/03: EMA workshop on external controls
 
 - Mouna and Marc represented the group in the scientific committee while Natalia presented.
@@ -21,6 +34,10 @@ output:
 - Tobias presented on credibility framework/assumptions.
 - Nicky presented in the Bayes session.
 - See [here](https://efspieurope.github.io/workshop/data/2025/slides.html) for recordings and slidedecks.
+
+# 2025/05/13: EFSPI StatsLeaders Meeting in Copenhagen
+
+- Mouna and Kaspar ran a session "Innovative clinical trial methodologies and their adoption - Priorities and Opportunities".
 
 # 2025/03/19: BBS webinar "From Statistical Innovations to Common Practice, How to innovate with impact?"
 
@@ -43,6 +60,10 @@ EMA invited industry to propose topics for discussion, of which ten were selecte
 # 2024/06/17: EMA multistakeholder workshop on Bayesian statistics
 
 - [Agenda](https://www.ema.europa.eu/en/events/workshop-use-bayesian-statistics-clinical-development).
+
+# 2024/05/06: EFSPI StatsLeaders Meeting at BMS in Boudry
+
+- Mouna and Kaspar introduced the group.
 
 # Feedback 
 

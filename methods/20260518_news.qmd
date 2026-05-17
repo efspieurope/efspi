@@ -1,0 +1,25 @@
+---
+title: "Newsletter 18th May 2026"
+date: last-modified
+execute:   
+  freeze: auto  # re-render only when source changes
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    highlight-style: pygments
+---
+
+# Yearly face-to-face meeting
+
+In April, the EFSPI statistical methodology leaders met for their yearly face-to-face meeting at Merck in Copenhagen. Ten members took two days out of their busy schedule to travel to Denmark. These [topics](events.html#efspi-statistical-methodology-leaders-f2f-in-copenhagen) were discussed.
+
+# Events
+
+See [events page](events.html).
+
+# Evolvement of priority topics
+
+See [priority topics](priority.html).
+
