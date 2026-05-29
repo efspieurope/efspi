@@ -1,8 +1,6 @@
 ---
 title: "EFSPI methods leaders: members"
 date: last-modified
-execute:   
-  freeze: auto  # re-render only when source changes
 format:
   html:
     toc: true
