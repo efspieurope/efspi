@@ -25,7 +25,12 @@ See [priority topics](priority.html).
 
 # Paper _Statistical Methodology Groups in the Pharmaceutical Industry_
 
-Led by Jenny Devenport the group has written this [paper](https://doi.org/10.1080/19466315.2026.2656249). The journal ([Statistical in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20)) has decided to make this a discussion paper and invited three discussants, see their contributions here (available online around end of May).
+Led by Jenny Devenport the group has written this [paper](https://doi.org/10.1080/19466315.2026.2656249). The journal ([Statistical in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20)) has decided to make this a discussion paper and invited three discussants:
+
+- [Jose Pinheiro](https://doi.org/10.1080/19466315.2026.2658638).
+- [Steven Snapinn](https://doi.org/10.1080/19466315.2026.2656255).
+- [ASA Biopharmaceutical working group, Statistical Innovation Community](https://doi.org/10.1080/19466315.2026.2661384).
+- [Our rejoinder](https://doi.org/10.1080/19466315.2026.2663697).
 
 The paper explores the setup, remit, and value of dedicated methodology groups, alongside the critical organizational considerations and success factors required to maximize their impact on the speed, efficiency, and probability of success.
 

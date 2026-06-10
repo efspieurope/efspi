@@ -38,8 +38,8 @@ format:
     toc: true
     grid:
       sidebar-width: 400px
-      body-width: 1100px
-      margin-width: 100px
+      body-width: 1300px
+      margin-width: 400px
 
 editor: source
 
