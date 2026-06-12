@@ -10,6 +10,10 @@ output:
     toc_float: yes
 ---
 
+# 2026/05/12: Meeting EFSPI methods leaders - EMA statisticians
+
+- [Minutes](events/20260519/20260519_EML_EMA_stats.pdf).
+
 # 2026/05/12: EFSPI StatsLeaders Meeting Munich
 
 - Mouna and Tobias lead a session on _Engagement with Regulatory Agencies and Methodological Innovation_.
@@ -21,7 +25,6 @@ Topics that were discussed:
 - Update from organizations.
 - Change management tactics.
 - Priority topics, see [here](priority.html).
-
 
 # 2025/11/03: EMA workshop on external controls
 
