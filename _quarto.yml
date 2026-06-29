@@ -20,28 +20,28 @@ website:
     #       href: training/events_upcoming.html
     #     - text: "Past"  
     #       href: training/events_past.html
-    - text: "Resources"
+    - text: "Members"  
+      href: methods/methods_members.html
+    - text: "Events"  
+      href: methods/events.html
+    - text: "Priority topics"  
+      href: methods/priority.html
+    - text: "Publications"  
+      href: methods/publications.html
+    - text: "Newsletters"  
       menu:
-        - text: "Members"  
-          href: methods/methods_members.html
-        - text: "Events"  
-          href: methods/events.html
-        - text: "Priority topics"  
-          href: methods/priority.html
-        - text: "Publications"  
-          href: methods/publications.html
-        - text: "Newsletters"  
-          href: methods/newsletters.html
-         
+        - text: "3rd March 2025"  
+          href: methods/20250304_news.html
+        - text: "14th February 2026"  
+          href: methods/20260214_achievements2025.html
+        - text: "12th June 2026"  
+          href: methods/20260612_news.html
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-    grid:
-      sidebar-width: 400px
-      body-width: 1300px
-      margin-width: 400px
 
 editor: source
 
