@@ -22,29 +22,22 @@ path <- getwd()
 source(paste(path, "/tools/colFmt.r", sep = ""))
 ```
 
-# EFSPI
+# EFSPI statistical methodology leaders
 
-The original EFSPI webpage is available [here](http://www.efspi.org).
+In September 2023 EFSPI founded a new group _EFSPI statistical methodology leaders_, bringing together methodology leaders to work on topics of common interest.
 
-This page provides some resources for certain EFSPI activities.
+Find more context in this [linkedin post](https://www.linkedin.com/posts/kasparrufibach_biostatistics-statistics-drugdevelopment-activity-7084613881087578113-teIX/?utm_source=share&utm_medium=member_desktop) and [this slidedeck](methods/material/20230913_EFSPI_methodology_group_linkedin.pdf).
 
-# What you find here
+# Members, activities, publications, newsletters, priority topics
 
-## EFSPI workshop
+Find more under the resources tab.
 
-See [here](http://www.efspiworkshop.org).
-
-## EFSPI trainings
-
-On this webpage you find a calendar with links and materials related to biostatistics trainings and scientific events in Europe organized by [EFSPI](http://www.efspi.org) ([Who is EFSPI?](https://www.efspi.org/EFSPI/About_EFSPI/Who_is_EFSPI/EFSPI/About_EFSPI/Who_is_EFSPI.aspx?hkey=bd0697b9-ee96-4115-9a65-e6c19772236f)) or its National Organizations.
-
-## EFSPI statistical methodology leaders
-
-See [here](methods/methods_intro.html).
-
-# Contact
+# Feedback 
 
 For feedback and questions send an email to [efspieurope@gmail.com](efspieurope@gmail.com).
 
+# EFSPI
+
+[EFSPI](http://www.efspi.org).
 
 

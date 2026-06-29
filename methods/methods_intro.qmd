@@ -13,37 +13,18 @@ format:
 
 # EFSPI statistical methodology leaders
 
-## Introduction
-
 In September 2023 EFSPI founded a new group _EFSPI statistical methodology leaders_, bringing together methodology leaders to work on topics of common interest.
 
 Find more context in this [linkedin post](https://www.linkedin.com/posts/kasparrufibach_biostatistics-statistics-drugdevelopment-activity-7084613881087578113-teIX/?utm_source=share&utm_medium=member_desktop) and [this slidedeck](material/20230913_EFSPI_methodology_group_linkedin.pdf).
 
-## Members 
+# Members, activities, publications, newsletters, priority topics
 
-A list of current members is available [here](methods_members.html).
-
-## Previous events
-
-Materials from events the methods leaders contributed to are available [here](events.html).
-
-## Priority topics 
-
-See [here](priority.html).
-
-## Newsletters
-
-- [3rd March 2025](20250304_news.html)
-- [14th February 2026](20260214_achievements2025.html)
-- [12th June 2026](20260612_news.html)
-
-## List of publications by the group
-
-See [here](publications.html).
+Find more under the resources tab.
 
 # Feedback 
 
 For feedback and questions send an email to [efspieurope@gmail.com](efspieurope@gmail.com).
 
+# EFSPI
 
-
+[EFSPI](http://www.efspi.org).

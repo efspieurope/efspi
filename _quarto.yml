@@ -8,30 +8,30 @@ project:
     - workshop/
     
 website:
-  title: "EFSPI Europe"
+  title: "EFSPI Statistical Methodology Leaders"
   navbar:
     background: info
     left:
-    - text: "EFSPI regulatory statistics workshop"
-      href: https://efspieurope.github.io/workshop/
+    # - text: "EFSPI regulatory statistics workshop"
+    #   href: https://efspieurope.github.io/workshop/
     # - text: "EFSPI trainings: Calendar of events"
     #   menu:
     #     - text: "Upcoming"  
     #       href: training/events_upcoming.html
     #     - text: "Past"  
     #       href: training/events_past.html
-    - text: "EFSPI statistical methodology leaders"
+    - text: "Resources"
       menu:
-        - text: "Introduction"  
-          href: methods/methods_intro.html
         - text: "Members"  
           href: methods/methods_members.html
         - text: "Events"  
           href: methods/events.html
         - text: "Priority topics"  
           href: methods/priority.html
-        - text: "Publications and talks"  
+        - text: "Publications"  
           href: methods/publications.html
+        - text: "Newsletters"  
+          href: methods/newsletters.html
          
 format:
   html:
