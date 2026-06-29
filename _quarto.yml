@@ -14,12 +14,12 @@ website:
     left:
     - text: "EFSPI regulatory statistics workshop"
       href: https://efspieurope.github.io/workshop/
-    - text: "EFSPI trainings: Calendar of events"
-      menu:
-        - text: "Upcoming"  
-          href: training/events_upcoming.html
-        - text: "Past"  
-          href: training/events_past.html
+    # - text: "EFSPI trainings: Calendar of events"
+    #   menu:
+    #     - text: "Upcoming"  
+    #       href: training/events_upcoming.html
+    #     - text: "Past"  
+    #       href: training/events_past.html
     - text: "EFSPI statistical methodology leaders"
       menu:
         - text: "Introduction"  
@@ -30,6 +30,8 @@ website:
           href: methods/events.html
         - text: "Priority topics"  
           href: methods/priority.html
+        - text: "Publications and talks"  
+          href: methods/publications.html
          
 format:
   html:
